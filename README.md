@@ -1,6 +1,6 @@
 # Hello There!
 
-👋 I'm developer living in Kielce, Poland.
+👋 I'm a developer living in Kielce, Poland.
 
 ❤️ I love JavaScript and TypeScript and I create projects in these languages.
 
