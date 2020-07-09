@@ -6,6 +6,7 @@
 
 🧑🏻‍💻 I build Open Source mostly in React.
 
-**You can find me here:**
+## You can find me here:
 
-👉 Twitter: https://twitter.com/jbiesiad
+👉 Twitter: https://twitter.com/jbiesiad/<br>
+👉 LinkedIn: https://www.linkedin.com/in/jakub-biesiada/
